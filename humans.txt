@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Lars Burgwal	lars@modularmood.com	@fuckdeze
 
 # THANKS
 
